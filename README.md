@@ -37,18 +37,6 @@ To get started with the Employee Payroll Tracker application, follow these steps
 - Upon opening the application, you will be able to view the payroll data for all employees.
 - Use the provided interface to manage employee records, update payroll information, and perform other necessary tasks.
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/your-feature-name`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the code as per the terms of the license.
 
 
